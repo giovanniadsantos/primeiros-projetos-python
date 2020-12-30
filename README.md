@@ -1,11 +1,13 @@
 # primeiros-projetos-python
 Repositório com os primeiros projetos em python usados como estudo.
 
-    * Calculadora
+* Calculadora
+
 O primeiro arquivo calculadora_v1.py foi a primeira versão do projeto.
 O segundo arquivo calculadora_v2.py é a versão melhorada com adição de algumas outras funcionalidades.
 
-    * Hangman
+* Hangman
+
 Este projeto foi feito para aplicar os conhecimentos de Programação Orientada a Objetos em Python.
 O Arquivo forca_v1.py contém o código implementado para criar o jogo da forca, onde o programa escolhe uma palavra no repositório de palavras e o jogador tem 6 chances de descobrir qual é a palavra testando uma letra por vez.
 
